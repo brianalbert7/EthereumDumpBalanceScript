@@ -7,4 +7,4 @@ import Config
 INFURA_API_KEY_MAIN = Config.INFURA_API_KEY_MAIN
 
 # Set provider using Infura node
-w3 = Web3(Web3.HTTPProvider("https://rinkeby.infura.io/v3/" + INFURA_API_KEY_MAIN))
+w3 = Web3(Web3.HTTPProvider("https://mainnet.infura.io/v3/" + INFURA_API_KEY_MAIN))
