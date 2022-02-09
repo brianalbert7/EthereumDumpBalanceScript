@@ -8,8 +8,3 @@ def loop_main(poll_interval):
     while True:
         transferEther()
         time.sleep(poll_interval)
-
-def main():
-    loop_main(2)
-
-main()
