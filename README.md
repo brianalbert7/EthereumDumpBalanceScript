@@ -1,4 +1,4 @@
-# EthereumDumpBalanceScript
+# Ethereum Dump Balance Script
 - Script checks if the balance of an Ethereum Wallet can be sent to another address
 - If the wallet has enough Ether for gas fees, it will send all of the Ether in the wallet to the second wallet
 
