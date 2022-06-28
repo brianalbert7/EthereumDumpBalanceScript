@@ -27,11 +27,6 @@
   * INFURA_API_KEY_MAIN is your Infura project's project id
 - Run __init__.py
 
-## Requirements:
-- Python
-- Web3
-- python-dotenv
-
 ## Sources:
  - https://www.geeksforgeeks.org/how-to-install-pip-on-windows/?ref=lbp
  - https://www.youtube.com/watch?v=0rzDcair9rg
